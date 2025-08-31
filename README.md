@@ -1,6 +1,6 @@
-# Priyansh-Bot-V2
+# Raja-Bot-V2
 
-**Priyansh-Bot-V2** is a Facebook Messenger chatbot that runs with the help of your **Facebook account's appstate (cookies)**. This bot listens to your messages in Messenger and handles multiple useful commands.
+**Raja-Bot-V2** is a Facebook Messenger chatbot that runs with the help of your **Facebook account's appstate (cookies)**. This bot listens to your messages in Messenger and handles multiple useful commands.
 
 ##
 
