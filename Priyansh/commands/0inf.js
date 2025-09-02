@@ -30,9 +30,9 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
 
-🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ 𝔸𝕒𝕤𝕚𝕗💔🥀
+🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ 𝗔𝗔𝗦𝗜𝗙💔🥀
 
-🙈bot andmin owner facebook id link🙈➪ www.facebook.com/priyanshu.rajput.official 💞🕊️
+🙈bot andmin owner facebook id link🙈➪ www.facebook.com/aasif.shaikh.official 💞🕊️
 
 👋For Any Kind Of Help Contact On Telegram  Username 👉 @Aasif shaikh😇
 
@@ -53,7 +53,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🦢🍒•••ꞪɛᏒɛ ɪʂ ɮ❍┼ ❍ωɳɜɽ ɳaʍɜ•••🌷💞
 ┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓
-🌸✦✧✧✧✧✰🍒𝔸𝕒𝕤𝕚𝕗🌿✰✧✧✧✧✦🌸
+🌸✦✧✧✧✧✰🍒𝗔𝗔𝗦𝗜𝗙 𝗦𝗛𝗔𝗜𝗞𝗛🌿✰✧✧✧✧✦🌸
 ┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛
 
 
