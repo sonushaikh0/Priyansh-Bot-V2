@@ -24,6 +24,10 @@
     "NDH": [
         "100090102850671"
     ],
+    ],
+    "NDH": [
+        "61553561090622"
+    ],
     "DATABASE": {
         "sqlite": {
             "storage": "data.sqlite"
